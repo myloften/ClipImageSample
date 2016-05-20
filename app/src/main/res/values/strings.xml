@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ClipImageSample</string>
+    <string name="title_activity_clip_image">ClipImageActivity</string>
+    <string name="msg_clipping_image">正在裁剪图片</string>
+    <string name="msg_could_not_save_photo">无法保存图片</string>
+</resources>

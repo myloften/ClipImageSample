@@ -5,12 +5,12 @@
 ![image](https://github.com/myloften/ClipImageSample/blob/master/img1.png)![image](https://github.com/myloften/ClipImageSample/blob/master/img2.png)
 ![image](https://github.com/myloften/ClipImageSample/blob/master/img3.png)![image](https://github.com/myloften/ClipImageSample/blob/master/img4.png)
 ##目前支持属性：
-- mWidth:宽高比例，默认为1
-- mHeight:宽高比例，默认为1
-- mClipPadding:裁剪框边距，默认为0
-- mMaskColor:遮罩层颜色，默认为0xB2000000
-- mDrawCircleFlag:是否圆形，默认为false
-- mRoundCorner:矩形圆角，默认为0
+- civWidth:宽高比例，默认为1
+- civHeight:宽高比例，默认为1
+- civClipPadding:裁剪框边距，默认为0
+- civMaskColor:遮罩层颜色，默认为0xB2000000
+- civClipCircle:是否圆形，默认为false
+- civClipRoundCorner:矩形圆角，默认为0
 
 ##参考资料:
 - https://github.com/msdx/clip-image
